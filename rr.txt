@@ -1,1 +1,2 @@
-this is second remote repo file 
+this is second remote repo file
+updated in wd now push to local repo 
